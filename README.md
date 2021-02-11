@@ -21,7 +21,7 @@ This project is divided into two parts:
        - Bag of Words
        - TF-IDF
        
- **2. Model Building:
+ **2. Model Building:**
        - From the vectors we have got we will build a model
        - From the entire data we will split in to train and test data.
        - we will train a model using train data, here we used *Naive Bayes Classifier* for SPAM/HAM Classification.
