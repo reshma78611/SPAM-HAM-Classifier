@@ -19,14 +19,14 @@ This project is divided into two parts:
        - Stemming — words are reduced to a root by removing inflection through dropping unnecessary characters, usually a suffix.\
        - Lemmatization — Another approach to remove inflection by determining the part of speech and utilizing detailed database of the language.\
        - Bag of Words\
-       - TF-IDF\
+       - TF-IDF
        
  **2. Model Building:**\
        - From the vectors we have got we will build a model\
        - From the entire data we will split in to train and test data.\
        - we will train a model using train data, here we used *Naive Bayes Classifier* for SPAM/HAM Classification.\
        - After Training we validate a model using Test data.\
-       - Observe the metrics\ 
+       - Observe the metrics
              
 ## Installation  
 The Code is written in Python 3.7
